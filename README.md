@@ -1,5 +1,7 @@
 # OpenGoldHorde
 
+![Logo](./images/original.png)
+
 Tatarian alternative to KubeLens
 
 ## Recommended IDE Setup
