@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "open-gold-horde",
+  "productName": "Open Gold Horde",
   "version": "0.1.0",
   "identifier": "com.open-gold-horde.app",
   "build": {
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "open-gold-horde",
+        "title": "Open Gold Horde",
         "width": 800,
         "height": 600
       }
